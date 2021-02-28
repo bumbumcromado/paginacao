@@ -1,0 +1,21 @@
+
+body{
+    position: relative;
+}
+button{
+    bottom: 0;
+}
+#prev{
+    left: 0;
+    position: absolute;
+    bottom: 1em;
+}
+#next{
+    position: absolute;
+    bottom: 1em;
+    right: 0;
+}
+.paragrafo{
+    width: 70%;
+    margin: 0 auto;
+}
